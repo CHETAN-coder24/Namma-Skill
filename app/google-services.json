@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "967707532755",
+    "project_id": "nammaskill-5f27b",
+    "storage_bucket": "nammaskill-5f27b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967707532755:android:dd1dda9e95650e59be2326",
+        "android_client_info": {
+          "package_name": "com.nammaskill.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9K24HEIGpuEkUMaE6ycVAdPgsLlZCd7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

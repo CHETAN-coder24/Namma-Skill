@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108"
+    android:tint="#FFFFFF">
+    <!-- Graduation cap / school icon centered in the safe zone (24dp icon in 72dp safe zone) -->
+    <group
+        android:translateX="30"
+        android:translateY="30">
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M24,6L2,14l10,4.5v7L24,31l12,-5.5v-7L46,14zM24,27.3L10,21.5v-4.2L24,23.1l14,-5.8v4.2z"/>
+    </group>
+</vector>

@@ -1,0 +1,18 @@
+# Built files
+/build
+/app/build
+
+# Gradle
+.gradle/
+local.properties
+
+# IDE
+.idea/
+*.iml
+
+# Firebase config (contains secrets)
+# app/google-services.json
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Namma Skill</string>
+    <string name="home_title">Discover Courses</string>
+    <string name="map_title">Skill Centers Near You</string>
+    <string name="stories_title">Success Stories</string>
+    <string name="notifications_title">Notifications</string>
+    <string name="apply_now">Apply Now</string>
+    <string name="i_am_interested">I am Interested</string>
+    <string name="submit_application">Submit Application</string>
+    <string name="back_to_courses">Back to Courses</string>
+    <string name="loading_courses">Loading courses...</string>
+    <string name="no_courses_found">No courses found</string>
+    <string name="try_adjusting_filters">Try adjusting your filters to find more courses</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="retry">Retry</string>
+</resources>
